@@ -6,4 +6,5 @@ public class HotfixClass {
     // 3rd hotfix
     // 4th hotfix
     // 5th hotfix
+    // 6th hotfix
 }
